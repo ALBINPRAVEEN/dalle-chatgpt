@@ -63,5 +63,5 @@ else:
     else:
         st.warning("Please enter something! ⚠")
 
-st.markdown("<br><hr><center>Made with ❤️ by <a href='albinpraveen.is-a.dev'><strong>ALBIN PRAVEEN</strong></a></center><hr>", unsafe_allow_html=True)
+st.markdown("<br><hr><center>Made with ❤️ by <a href='https://albinpraveen.is-a.dev'><strong>ALBIN PRAVEEN</strong></a></center><hr>", unsafe_allow_html=True)
 st.markdown("<style> footer {visibility: hidden;} </style>", unsafe_allow_html=True)
